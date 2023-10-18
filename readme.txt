@@ -3,7 +3,7 @@ just like:
 ...\...\...\iModel_installer\iModel.exe
 ...\...\...\iModel_installer\python
 ...\...\...\iModel_installer\data
-..\...\...\iModel_installer\*.py
+...\...\...\iModel_installer\*.py
 Full English path required.
 The program interface example is shown in the file "example.png".
 Click the "iModel.exe" file to run the program.
