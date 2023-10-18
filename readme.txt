@@ -7,3 +7,4 @@ just like:
 Full English path required.
 The program interface example is shown in the file "example.png".
 Click the "iModel.exe" file to run the program.
+Requires Windows 10 and above systems.
