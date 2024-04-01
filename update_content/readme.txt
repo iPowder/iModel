@@ -1,0 +1,1 @@
+Copy the contents in the update folder to the iModel program directory, replacing the original files or adding new files. If this update method is unsuccessful, please update by downloading the complete program.
